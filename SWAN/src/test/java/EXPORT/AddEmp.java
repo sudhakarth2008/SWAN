@@ -70,7 +70,7 @@ import java.util.*;
 /*
  Openbrowser
  openurL
- login
+ loginlk
  Addemp
  logout
  */
